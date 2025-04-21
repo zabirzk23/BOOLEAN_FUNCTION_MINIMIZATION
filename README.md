@@ -45,12 +45,12 @@ Developed by: Mohamed Zabir Khan A RegisterNumber: 212224230162
 **Output:**
 **RTL**
 
-
 ![circuit](https://github.com/user-attachments/assets/8d0f9561-89ea-48f7-904b-41a6e9434c8a)
 
 **Timing Diagram**
-![circuit](https://github.com/user-attachments/assets/9570178b-2b63-4faa-927c-cf819c419fd9)
 
+
+![waveform](https://github.com/user-attachments/assets/9aaa20a7-856d-4010-9a14-4c603b41f6da)
 
 **Result:**
 
